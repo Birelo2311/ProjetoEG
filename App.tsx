@@ -10,6 +10,8 @@ import {HomeScreen} from './src/screens/HomeScreen';
 import {SignInScreen} from './src/screens/SignInScreen';
 import {TelaInicial} from './src/screens/telainicial';
 
+//teste
+
 import {colors} from './src/colors';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
